@@ -1,6 +1,6 @@
 # Nested Routes in React Router
 
-## Objectives
+## Objectives 
 
 - Describe how to render JSX within a `Route`
 - Describe how __React Router__ allows nesting routes and URL parameters
